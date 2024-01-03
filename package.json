@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node js trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunyadav1175/node-js.git"
+  },
+  "author": "varun yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunyadav1175/node-js/issues"
+  },
+  "homepage": "https://github.com/varunyadav1175/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0"
+  }
+}
